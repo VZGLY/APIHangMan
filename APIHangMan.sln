@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHangMan", "APIHangMan\APIHangMan.csproj", "{FC593C19-4E58-4CC5-98FF-98AA2103B539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{33DC90C5-BAAB-4E81-8431-8A216D179CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{56065E09-C101-4E9D-8091-F03954B67E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC593C19-4E58-4CC5-98FF-98AA2103B539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC593C19-4E58-4CC5-98FF-98AA2103B539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC593C19-4E58-4CC5-98FF-98AA2103B539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC593C19-4E58-4CC5-98FF-98AA2103B539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DC90C5-BAAB-4E81-8431-8A216D179CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DC90C5-BAAB-4E81-8431-8A216D179CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DC90C5-BAAB-4E81-8431-8A216D179CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DC90C5-BAAB-4E81-8431-8A216D179CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56065E09-C101-4E9D-8091-F03954B67E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56065E09-C101-4E9D-8091-F03954B67E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56065E09-C101-4E9D-8091-F03954B67E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56065E09-C101-4E9D-8091-F03954B67E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
